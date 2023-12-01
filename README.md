@@ -25,7 +25,7 @@ Let's connect and chat! You can find me on:
 
 ## 📈 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?"MandisaNzuza"=your-"https://github.com/MandisaNzuza"&show_icons=true&hide=contribs)](https://github.com/"MandisaNzuza")
+[![My GitHub Stats]("https://github-readme-stats.vercel.app/api?MandisaNzuza"=your-"https://github.com/MandisaNzuza"&show_icons=true&hide=contribs)]("https://github.com/MandisaNzuza")
 
 Feel free to explore my repositories and don't hesitate to reach out. I'm open to collaboration and always interested in new projects!
 
