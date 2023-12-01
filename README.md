@@ -1,15 +1,34 @@
-### Hey there, I am Mandisa Nzuza
-### I Am An Innovative Data Analyst 
-###### I am a BSc graduate in Applied Statistics from UCT
+# 👋 Hello, I'm Mandisa Nzuza
 
-<!--
-**MandisaNzuza/MandisaNzuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about data science, data analytics and learning programming languages, and I enjoy working on data analytics and data visualisation projects. Here's a bit about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-### My name is Mandisa Nzuza
-- I am a BSc graduate in Applied Statistics from UCT
-- I have interest in data science and data analytics 
-- My contact: mandisamshazi@gmail.com 
--->
+- 💼 Currently working as a Data Analyst.
+- 🎓 Graduated with a degree in Applied Statistics & Chemistry.
+- 🌱 I'm constantly learning and exploring new technologies.
+- 📚 I enjoy reading and staying up-to-date with the latest industry trends.
+
+## 🔧 Technologies & Tools
+
+I'm familiar with:
+
+- Programming languages: SQL, R(beginner), HTML/CSS(intermediate).
+- Data Analytics Tools: PowerBI, Advanced Excel, Tableau, Google Sheets
+
+## 🌐 Connect with Me
+
+Let's connect and chat! You can find me on:
+
+- [LinkedIn](https://www.linkedin.com/in/mandisa-nzuza-9a2a38232/)
+- [Personal Website](https://mandisa-nzuza-bio.netlify.app/)
+
+## 📈 GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?MandisaNzuza=your-MandisaNzuza&show_icons=true&hide=contribs)](https://github.com/your-MandisaNzuza)
+
+Feel free to explore my repositories and don't hesitate to reach out. I'm open to collaboration and always interested in new projects!
+
+Thanks for stopping by! 😊
+
 
