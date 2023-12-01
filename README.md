@@ -1,5 +1,5 @@
-### Hey there, I'm pleased to have you here 👋
-### My name is Mandisa Nzuza
+### Hey there, I am Mandisa Nzuza
+### I Am An Innovative Data Analyst 
 ###### I am a BSc graduate in Applied Statistics from UCT
 
 <!--
