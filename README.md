@@ -23,9 +23,9 @@ Let's connect and chat! You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/mandisa-nzuza-9a2a38232/)
 - [Personal Website](https://mandisa-nzuza-bio.netlify.app/)
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MandisaNzuza&show_icons=true&hide=contribs)](https://github.com/MandisaNzuza)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MandisaNzuza&show_icons=true&hide=contribs)](https://github.com/MandisaNzuza)-->
 
 Feel free to explore my repositories and don't hesitate to reach out. I'm open to collaboration and always interested in new projects!
 
